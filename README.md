@@ -3,7 +3,7 @@
 本项目仅为个人兴趣开发，仅供个人学习和研究使用！严禁将本项目用于任何商业用途或其他未经授权的活动！使用本项目时，请确保遵守相关法律法规以及 Bilibili 的使用条款！项目开发者不对任何未经授权的使用行为及其后果负责！
 
 
-### 中文版(Chinesse version)
+### 中文版(Chinese version)
 ## 📌 项目概述
 大家好~我是NINE。这是我开发的第二个全栈项目 --- Bilibili Downloader。该项目是一个基于 Electron + Vue + TypeScript + Flask 的跨平台桌面应用，用于下载 Bilibili 视频内容。本项目采用现代前端技术栈开发，支持 Windows、macOS 和 Linux 三大平台。
 ## 🛠️ 技术栈
@@ -198,7 +198,7 @@ If you have any questions or suggestions, feel free to contact me through the fo
 Happy Coding! 🎉
 
 
-### 日本語版(Japanesse version)
+### 日本語版(Japanese version)
 ## 📌 プロジェクト概要
 こんにちは、NINEです。これは私の2番目のフルスタックプロジェクトです。Bilibili Downloaderは、Bilibiliのビデオコンテンツをダウンロードするためのクロスプラットフォームデスクトップアプリケーションで、モダンなフロントエンド技術スタックを使用して開発され、Windows、macOS、Linuxの3つのプラットフォームをサポートしています。
 
